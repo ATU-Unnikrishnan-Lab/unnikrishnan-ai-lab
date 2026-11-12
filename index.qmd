@@ -1,0 +1,15 @@
+---
+title: "Unnikrishnan AI Lab"
+subtitle: "AI for medical imaging and industrial systems"
+---
+
+**Atlantic Technological University, Sligo**
+
+We develop multimodal and explainable AI for medical image analysis,
+and use machine learning to model and monitor industrial processes.
+
+## Featured research
+
+- **OncoView** — AI-based breast tumour segmentation and measurement.
+- **Brain tumour MRI** — Multimodal and explainable AI for glioma characterisation.
+- **DAIRY-VISION** — AI for evaluating dairy powder solubility from microscopy images.
